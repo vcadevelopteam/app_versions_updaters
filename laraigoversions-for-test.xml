@@ -5,7 +5,7 @@
         <item>
             <title>Version 1.0.7</title>
             <description>Descripción de prueba de versionamiento para la versión de laraigo</description>
-            <pubDate>21/12/2022</pubDate>
+            <pubDate>21/12/2022 - 11:25</pubDate>
             <enclosure url="https://play.google.com/store/apps/details?id=vca.laraigomovil.app"
                 sparkle:version="1.0.5" sparkle:os="android" />
         </item>
