@@ -2,6 +2,13 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
     <channel>
         <title>Censos App - Appcast</title>
+                <item>
+            <title>Version 2.0.9</title>
+            <description></description>
+            <pubDate>06/02/2023</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.vca.trade.assets"
+                sparkle:version="2.0.9" sparkle:os="android" />
+        </item>
         <item>
             <title>Version 2.0.8</title>
             <description></description>
