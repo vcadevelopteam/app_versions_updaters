@@ -3,11 +3,11 @@
     <channel>
         <title>Laraigo - Appcast</title>
         <item>
-            <title>Version 1.0.5</title>
+            <title>Version 1.0.8</title>
             <description></description>
             <pubDate>16/01/2023</pubDate>
             <enclosure url="https://play.google.com/store/apps/details?id=vca.laraigomovil.app"
-                sparkle:version="1.0.5" sparkle:os="android" />
+                sparkle:version="1.0.8" sparkle:os="android" />
         </item>
     </channel>
 </rss>
