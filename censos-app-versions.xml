@@ -52,5 +52,12 @@
             <enclosure url="https://play.google.com/store/apps/details?id=com.vca.trade.assets"
                 sparkle:version="2.4.2" sparkle:os="android" />
         </item>
+        <item>
+            <title>Version 2.4.3</title>
+            <description>yes</description>
+            <pubDate>Wed, 20 Sep 2023 12:00:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.vca.trade.assets"
+                sparkle:version="2.4.3" sparkle:os="android" />
+        </item>
     </channel>
 </rss>
